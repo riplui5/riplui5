@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue**
 
-- 📫 How to reach me **grenoxpr@ogmail.com**
+- 📫 How to reach me **grenoxpro@ogmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
